@@ -4,7 +4,7 @@ Description: https://gitcoin.co/issue/nervosnetwork/grants/3/100026209
 
 ## A screenshot of the console output immediately after you have successfully deployed a smart contract.
 
-![Contract Deploy Screenshot ](https://github.com/mirrormirage0/nervos/blob/main/Hackathon-Task-1-DeployContract/contract-deploy-screenshot.png?raw=true)
+![Contract Deploy Screenshot ](https://github.com/mirrormirage0/nervos/blob/main/Hackathon-Task-2-DeployContract/contract-deploy-screenshot.png?raw=true)
 
 
 ## The transaction hash from the contract deployment (in text format).
