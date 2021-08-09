@@ -13,3 +13,7 @@ Description https://gitcoin.co/issue/nervosnetwork/grants/6/100026212
 
 ## 4. The Ethereum address that was checked (in text format).
 `0xB4837cF70f03a800D3DEcd8e3139A60499781eF8`
+
+
+## Bonus - Get Layer 2 SUIDT ID from Layer 1 SUDT Issuer Lock Hash
+![bonus-get-sudt-id ](https://github.com/mirrormirage0/nervos/blob/main/Hackathon-Task-5-DeployERC20Proxy/bonus-get-sudt-id.png?raw=true)
