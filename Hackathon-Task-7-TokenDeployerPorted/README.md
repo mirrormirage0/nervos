@@ -27,7 +27,6 @@ You can then use the buttons
 
 
 ## 1. Screenshots or video of your application running on Godwoken.
-![ckETH Deposit Address ](https://github.com/mirrormirage0/nervos/blob/main/Hackathon-Task-6-ForceBridge-ETH-Polyjuice/ckETH-Deposit-Address.png?raw=true)
 
 [![youtubescreenshot](https://github.com/mirrormirage0/nervos/blob/main/Hackathon-Task-7-TokenDeployerPorted/youtubescreenshot.png)](https://youtu.be/f3hNTWMzIRk)
 
