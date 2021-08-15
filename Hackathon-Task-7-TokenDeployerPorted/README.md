@@ -3,7 +3,7 @@
 Description : https://gitcoin.co/issue/nervosnetwork/grants/8/100026214
 
 
-# What this DApp Does
+# DApp Functionality
 
 This DApp deploys a custom ERC 20 token on the Nervos Godwoken testnet. 
 The token is set to have name as MirrorMirage, Ticker as MMG, and Max supply as 21 Million.
