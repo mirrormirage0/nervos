@@ -41,8 +41,7 @@ Transaction Hash `0xf76547a490e56677072b60fa1292b382d5c3899e849e488bd4920e415279
 Deployed Contract Address `0x0b87eD2a6bA6Bd3dccedf3Ff2484Edf23256858f`
 
 ABI 
-`
-"abi": [
+`"abi": [
     {
       "inputs": [],
       "stateMutability": "nonpayable",
@@ -318,6 +317,4 @@ ABI
       "stateMutability": "nonpayable",
       "type": "function"
     }
-  ]
-
-`
+  ]`
