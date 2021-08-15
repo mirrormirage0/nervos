@@ -27,6 +27,7 @@ You can then use the buttons
 
 
 ## 1. Screenshots or video of your application running on Godwoken.
+Click this image to play youtube demo video
 
 [![youtubescreenshot](https://github.com/mirrormirage0/nervos/blob/main/Hackathon-Task-7-TokenDeployerPorted/youtubescreenshot.png)](https://youtu.be/f3hNTWMzIRk)
 
